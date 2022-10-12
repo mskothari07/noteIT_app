@@ -14,7 +14,7 @@ https://noteit-mern.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/mskothari07/noteIT_app.git
 ```
 
 Go to the project directory
