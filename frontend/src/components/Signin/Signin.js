@@ -84,6 +84,7 @@ const Signin = () => {
               className="FormInput"
               required
               value={password}
+              id="myInput"
               onChange={(e) => {
                 setPassword(e.target.value);
               }}
