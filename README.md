@@ -1,7 +1,6 @@
 ## Authors
 
 - [Meet Kothari](https://github.com/mskothari07)
-- [Indranil Champati](https://github.com/indranilchampati)
 
 ## Live App
 
